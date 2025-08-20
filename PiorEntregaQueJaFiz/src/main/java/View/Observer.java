@@ -2,12 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package mycompany.mavenproject1.View;
+package View;
+
+import Model.Acao;
 
 /**
  *
  * @author Arthur
  */
 public interface Observer {
-    void Update();
+    void Update(Acao Acoes);
 }
