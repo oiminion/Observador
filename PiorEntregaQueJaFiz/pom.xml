@@ -9,6 +9,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>mycompany.mavenproject1.Mavenproject1</exec.mainClass>
+        <sonar.organization>oiminion</sonar.organization>
     </properties>
     <name>NaoPossoNemChamarDeTentativa</name>
 </project>
