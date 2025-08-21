@@ -136,7 +136,7 @@ public class UI extends javax.swing.JFrame {
             }
         });
         
-        ConcreteObserver obs = new ConcreteObserver(mercado, 12, "Teste");
+        //ConcreteObserver obs = new ConcreteObserver(mercado, 12, "Teste");
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

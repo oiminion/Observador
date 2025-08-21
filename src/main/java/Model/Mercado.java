@@ -54,7 +54,7 @@ public class Mercado implements Subject{
         Notify(nova_acao);
     }
     
-    public void SetStage(int pos, Acao nova_acao)
+    public void SetStage(Acao nova_acao)
     {
         boolean flag = false;
         boolean flag2 = false;
